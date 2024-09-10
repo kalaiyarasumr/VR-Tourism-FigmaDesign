@@ -1,3 +1,3 @@
-Prototype Link: https://www.figma.com/proto/HiAS0Fk7h196JewghMWVTU/VR-Tourism?node-id=2-2&node-type=CANVAS&t=E3gJcofv3zfPYLYu-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A2
+Prototype Link: https://www.figma.com/proto/kKiNhMrWUYh8pDYavCli8a/VR-Tourism?node-id=11-89&node-type=canvas&t=gGt0OyCi9Jwy50Jn-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1
 
-Figma Link : https://www.figma.com/design/HiAS0Fk7h196JewghMWVTU/VR-Tourism?node-id=0-1&node-type=CANVAS&t=E3gJcofv3zfPYLYu-0
+Figma Link : https://www.figma.com/design/kKiNhMrWUYh8pDYavCli8a/VR-Tourism?node-id=0-1&node-type=canvas&t=gGt0OyCi9Jwy50Jn-0
